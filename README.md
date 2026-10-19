@@ -28,8 +28,9 @@ Led by **[Márcio Krefta](https://github.com/kreftamarcio)** (Principal AI Syste
 
 | Repository | Focus & Domain | Key Architecture Features | Status |
 |---|---|---|---|
+| **[`gemini-antigravity-hub`](https://github.com/q1-by-taco/gemini-antigravity-hub)** | Gemini 2.0 & Antigravity Reference Hub | The open reference architecture for autonomous agent workflows, 2M context optimization, and Google Gemini supremacy. | ⚡ **v1.0.0 Live / Flagship** |
 | **[`context-eval-engine`](https://github.com/q1-by-taco/context-eval-engine)** | Context Engineering & MCP Harness | JSON-RPC 2.0 MCP server, KV-cache prefix optimization, OWASP LLM01 injection auditing, and automated regression benchmarks. | 🟢 **Production / CI Active** |
-| **[`pull-shark-quest`](https://github.com/q1-by-taco/pull-shark-quest)** | Autonomous CI/CD Benchmarking | 128 atomic PRs with 100% Ed25519 cryptographic signatures, rate-limit serial pacing, and adaptive git rebase loops. | 🏆 **Gold Tier Achieved** |
+| **[`pull-shark-quest`](https://github.com/q1-by-taco/pull-shark-quest)** | Autonomous CI/CD Benchmarking | 128 atomic PRs + 48 co-authored PRs with 100% Ed25519 cryptographic signatures, rate-limit serial pacing, and adaptive git rebase loops. | 🏆 **Gold Tier Achieved** |
 | **[`prompt-engineering-corpus`](https://github.com/kreftamarcio/prompt-engineering-corpus)** | The 1,024 Context Engineering Matrix | The Gen 4 Context Engineering Manifesto, 8 Pillars specification, and open-source CLI context compiler. | 💎 **Global Reference** |
 
 ---
