@@ -20,7 +20,7 @@
 
 **Q1 by TACO** is an independent artificial intelligence engineering research and systems group based in Florianópolis, Santa Catarina, Brazil. We design and build open-source infrastructure for autonomous agent orchestration, context window optimization, and mathematical anti-hallucination guardrails (*Evidence-First*).
 
-Led by **[Márcio Krefta](https://github.com/kreftamarcio)** (independent software engineer and AI enthusiast) in partnership with **TACO Assessoria**, our work is purely community-driven. We are not employees of Google and hold no corporate partnerships or commercial agency relationships with Google LLC.
+Led by **[Márcio Krefta](https://github.com/kreftamarcio)** (independent prompt engineer and AI specialist) in partnership with **TACO Assessoria**, our work is purely community-driven. We are not employees of Google and hold no corporate partnerships or commercial agency relationships with Google LLC.
 
 ---
 
@@ -57,5 +57,5 @@ Led by **[Márcio Krefta](https://github.com/kreftamarcio)** (independent softwa
 > **Aviso Legal de Marcas:** Todas as marcas registradas de terceiros mencionadas nesta organização (incluindo Google, Gemini, GitHub, etc.) são de propriedade exclusiva de seus respectivos titulares. A Q1 by TACO é uma iniciativa de engenharia e pesquisa independente, sem vínculo societário, patrocínio ou representação oficial de tais empresas. Citações destinam-se exclusivamente à especificação de compatibilidade técnica (Art. 132, IV da Lei nº 9.279/1996).
 
 <div align="center">
-  <sub>© 2026 Q1 by TACO • Pesquisa Independente de Arquitetura de Contexto</sub>
+  <sub>© 2026 Q1 by TACO • Pesquisa Independente de Arquitetura de Contexto & Engenharia de Prompt</sub>
 </div>
