@@ -55,7 +55,6 @@ Conduzida por **[Márcio Krefta](https://github.com/kreftamarcio)** (especialist
 * 👨‍💻 **Liderança Técnica:** [Marcio Krefta (@kreftamarcio)](https://github.com/kreftamarcio)
 * 🏛️ **Governança & Relações:** [TACO Assessoria de Comunicação](https://github.com/TACO-Assessoria-de-Comunicacao)
 * 💬 **Discussões Técnicas & Q&A:** [Q1 Community Discussions](https://github.com/q1-by-taco/pull-shark-quest/discussions)
-* 🛡️ **Canal de Compliance & Contato:** `compliance@q1taco.com`
 
 ---
 
